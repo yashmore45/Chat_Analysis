@@ -166,5 +166,5 @@ Potential improvements include:
 
 **Yash More**
 
-GitHub: [Add Your GitHub Profile URL](https://github.com/)
+GitHub: https://github.com/yashmore45
 
